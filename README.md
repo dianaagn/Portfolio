@@ -16,7 +16,7 @@ Beginner in manual testing. I completed an individual software testing course wi
 - HTML & CSS (basics)
 - SCRUM
 # Certificates
-- Idividual Software Testing Course 15.12.2022
+- Individual Software Testing Course - 15.12.2022
 # Courses
 - Individual Software Testing Course - Waldemar Szafraniec
 - Software Testing Simple (Software Quality Assurance QA) - Udemy.com
