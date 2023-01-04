@@ -9,6 +9,7 @@ Beginner in manual testing. I completed an individual software testing course wi
 - Postman
 - TestLink
 # Technical skills
+- API
 - Bug reporting
 - Creating test cases
 - Cross browser & device testing with using BrowserStack
