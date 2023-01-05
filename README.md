@@ -27,6 +27,8 @@ Beginner in manual testing. I completed an individual software testing course wi
 - https://remigiuszbednarczyk.pl/
 - https://testerzy.pl/
 - https://www.wyszkolewas.com.pl
+# Webinars
+- 4_testers
 # Groups on Facebook
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
