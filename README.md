@@ -26,6 +26,7 @@ Beginner in manual testing. I completed an individual software testing course wi
 # Blogs read
 - https://remigiuszbednarczyk.pl/
 - https://testerzy.pl/
+- https://testuj.pl/
 - https://www.wyszkolewas.com.pl
 # Webinars
 - 4_testers
