@@ -33,3 +33,4 @@ Beginner in manual testing. I completed an individual software testing course wi
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
 # My test case examples
+- [Test cases for Varlesca.pl](https://drive.google.com/file/d/1K09i10EXYywqt4r7aSKQlPZ0xw-XVH2m/view?usp=share_link)
