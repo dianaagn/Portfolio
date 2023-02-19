@@ -1,7 +1,7 @@
 # PORTFOLIO
 My Tester's Portfolio
 # About me
-Certified ISTQB Foundation Level Tester. I completed an individual software testing course with Waldemar Szafraniec.I speak English, French and Polish. I am fast learner, quickly adapting to changes. My goal is to gain more experience and develop my technical skills in the field of manual testing.
+Certified ISTQB Foundation Level Tester. I completed an individual software testing course with Waldemar Szafraniec. I speak English, French and Polish. I am fast learner, quickly adapting to changes. My goal is to gain more experience and develop my technical skills in the field of manual testing.
 # Tools
 - Figma
 - Github
