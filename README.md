@@ -1,7 +1,7 @@
 # PORTFOLIO
 My Tester's Portfolio
 # About me
-Beginner in manual testing. I completed an individual software testing course with Waldemar Szafraniec. I am preparing for ISTQB Foundation Level Certification Exam. I speak English, French and Polish. I am fast learner, quickly adapting to changes. My goal is to gain more experience and develop my technical skills in the field of manual testing.
+Certified ISTQB Foundation Level Tester. I completed an individual software testing course with Waldemar Szafraniec.I speak English, French and Polish. I am fast learner, quickly adapting to changes. My goal is to gain more experience and develop my technical skills in the field of manual testing.
 # Tools
 - Figma
 - Github
@@ -18,6 +18,7 @@ Beginner in manual testing. I completed an individual software testing course wi
 - SCRUM
 # Certificates
 - Individual Software Testing Course - 15.12.2022
+- ISTQB Foundation Level Certificate - 17.02.2023
 # Courses
 - Individual Software Testing Course - Waldemar Szafraniec
 - Software Testing Simple (Software Quality Assurance QA) - Udemy.com
