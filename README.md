@@ -18,7 +18,7 @@ Certified ISTQB Foundation Level Tester. I completed an individual software test
 - SCRUM
 # Certificates
 - Individual Software Testing Course - 15.12.2022
-- ISTQB Foundation Level Certificate - 17.02.2023
+- ISTQB Foundation Level Certificate (No19776/CTFL/2023) - 17.02.2023
 # Courses
 - Individual Software Testing Course - Waldemar Szafraniec
 - Software Testing Simple (Software Quality Assurance QA) - Udemy.com
